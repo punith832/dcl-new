@@ -1,0 +1,2 @@
+print('def')
+print("wed")
